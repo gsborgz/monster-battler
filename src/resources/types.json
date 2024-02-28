@@ -1,0 +1,173 @@
+[
+  {
+    "id": 0,
+    "index": 0,
+    "name": "unknown",
+    "color": "#000000",
+    "weaknesses": [],
+    "resistances": [],
+    "immunities": []
+  },
+  {
+    "id": 1,
+    "index": 1,
+    "name": "earth",
+    "color": "#bc8d5c",
+    "weaknesses": [2, 5, 16],
+    "resistances": [4, 6],
+    "immunities": [11]
+  },
+  {
+    "id": 2,
+    "index": 2,
+    "name": "plant",
+    "color": "#60cd31",
+    "weaknesses": [5, 6, 9, 13],
+    "resistances": [1, 16],
+    "immunities": []
+  },
+  {
+    "id": 3,
+    "index": 3,
+    "name": "wind",
+    "color": "#caeeff",
+    "weaknesses": [5],
+    "resistances": [9, 11],
+    "immunities": [1]
+  },
+  {
+    "id": 4,
+    "index": 4,
+    "name": "metal",
+    "color": "#c3d0da",
+    "weaknesses": [9, 12],
+    "resistances": [2, 3, 7, 10, 11, 16],
+    "immunities": []
+  },
+  {
+    "id": 5,
+    "index": 5,
+    "name": "cold",
+    "color": "#e5feff",
+    "weaknesses": [1, 4, 9, 11],
+    "resistances": [3],
+    "immunities": []
+  },
+  {
+    "id": 6,
+    "index": 6,
+    "name": "toxic",
+    "color": "#8e7cc3",
+    "weaknesses": [16],
+    "resistances": [18],
+    "immunities": [6]
+  },
+  {
+    "id": 7,
+    "index": 7,
+    "name": "mineral",
+    "color": "#97ffe6",
+    "weaknesses": [4, 9, 12],
+    "resistances": [2, 3, 13, 16, 17],
+    "immunities": []
+  },
+  {
+    "id": 8,
+    "index": 8,
+    "name": "mystic",
+    "color": "#c27ba0",
+    "weaknesses": [8, 14, 18],
+    "resistances": [12, 13],
+    "immunities": [10]
+  },
+  {
+    "id": 9,
+    "index": 9,
+    "name": "fire",
+    "color": "#fe5924",
+    "weaknesses": [1, 3, 16],
+    "resistances": [2, 5, 9, 11],
+    "immunities": []
+  },
+  {
+    "id": 10,
+    "index": 10,
+    "name": "normal",
+    "color": "#efdec6",
+    "weaknesses": [8],
+    "resistances": [],
+    "immunities": []
+  },
+  {
+    "id": 11,
+    "index": 11,
+    "name": "electric",
+    "color": "#d5d537",
+    "weaknesses": [1],
+    "resistances": [7, 11, 12],
+    "immunities": []
+  },
+  {
+    "id": 12,
+    "index": 12,
+    "name": "tech",
+    "color": "#773bf7",
+    "weaknesses": [7, 8, 13],
+    "resistances": [5, 12, 14],
+    "immunities": []
+  },
+  {
+    "id": 13,
+    "index": 13,
+    "name": "insect",
+    "color": "#679f4e",
+    "weaknesses": [3, 5, 6, 9],
+    "resistances": [14],
+    "immunities": []
+  },
+  {
+    "id": 14,
+    "index": 14,
+    "name": "nocturn",
+    "color": "#595959",
+    "weaknesses": [18],
+    "resistances": [14],
+    "immunities": [8]
+  },
+  {
+    "id": 15,
+    "index": 15,
+    "name": "draco",
+    "color": "#c43aa9",
+    "weaknesses": [17, 18],
+    "resistances": [15],
+    "immunities": []
+  },
+  {
+    "id": 16,
+    "index": 16,
+    "name": "water",
+    "color": "#5f9af2",
+    "weaknesses": [2, 11],
+    "resistances": [1, 7, 9, 16],
+    "immunities": []
+  },
+  {
+    "id": 17,
+    "index": 17,
+    "name": "dino",
+    "color": "#d0b291",
+    "weaknesses": [5, 7],
+    "resistances": [1, 13],
+    "immunities": []
+  },
+  {
+    "id": 18,
+    "index": 18,
+    "name": "light",
+    "color": "#fbecae",
+    "weaknesses": [6, 15],
+    "resistances": [8, 18],
+    "immunities": [14]
+  }
+]
